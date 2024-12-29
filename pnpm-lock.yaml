@@ -36,8 +36,8 @@ importers:
         specifier: ^0.6.0
         version: 0.6.4
       base-x:
-        specifier: ^4.0.0
-        version: 4.0.0
+        specifier: ^5.0.0
+        version: 5.0.0
       eslint:
         specifier: 8.57.1
         version: 8.57.1
@@ -805,8 +805,8 @@ packages:
   balanced-match@1.0.2:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
 
-  base-x@4.0.0:
-    resolution: {integrity: sha512-FuwxlW4H5kh37X/oW59pwTzzTKRzfrrQwhmyspRM7swOEZcHtDZSCt45U6oKgtuFE+WYPblePMVIPR4RZrh/hw==}
+  base-x@5.0.0:
+    resolution: {integrity: sha512-sMW3VGSX1QWVFA6l8U62MLKz29rRfpTlYdCqLdpLo1/Yd4zZwSbnUaDfciIAowAqvq7YFnWq9hrhdg1KYgc1lQ==}
 
   base64-js@0.0.8:
     resolution: {integrity: sha512-3XSA2cR/h/73EzlXXdU6YNycmYI7+kicTxks4eJg2g39biHR84slg2+des+p7iHYhbRg/udIS4TD53WabcOUkw==}
@@ -3496,7 +3496,7 @@ snapshots:
 
   balanced-match@1.0.2: {}
 
-  base-x@4.0.0: {}
+  base-x@5.0.0: {}
 
   base64-js@0.0.8: {}
 
