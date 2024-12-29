@@ -12,7 +12,7 @@ const steps: {
     name: "Create a new Redis database on Upstash",
     description: (
       <>
-        Upstash offers a serverless Redis database with a generous free tier of up to 10,000 requests per day. That's
+        Upstash offers a serverless Redis database with a generous free tier of up to 10,000 requests per day. That&apos;s
         more than enough.
         <br />
         Click the button below to sign up and create a new Redis database on Upstash.
